@@ -1,0 +1,25 @@
+{
+  "name": "generator-python-microservice",
+  "version": "1.0.2",
+  "description": "Generator for python micro service",
+  "main": "app/index.js",
+  "files": [
+    "generators"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akesiraju/generator-python-microservice.git"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akesiraju/generator-python-microservice/issues"
+  },
+  "homepage": "https://github.com/akesiraju/generator-python-microservice#readme",
+  "dependencies": {
+    "yeoman-generator": "2.0.1"
+  }
+}
